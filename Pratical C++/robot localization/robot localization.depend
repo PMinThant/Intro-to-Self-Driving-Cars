@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574839576 source:c:\users\hp pavilion\onedrive\desktop\robot localization\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
