@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1575025059 source:c:\users\hp pavilion\onedrive\desktop\gaussian\src\gaussian.cpp
+	<math.h>
+	<gaussian.h>
+
+1575025059 source:c:\users\hp pavilion\onedrive\desktop\gaussian\main.cpp
+	<iostream>
+	<gaussian.h>
+
+1575025818 c:\users\hp pavilion\onedrive\desktop\gaussian\include\gaussian.h
+
